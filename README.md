@@ -1,2 +1,3 @@
 # SuperFrame.jl
-A DataFrames.jl extension we programmed together :)
+## A DataFrames.jl extension we programmed together :)
+If you'd like to learn more about this project, you can view my comprehensive Julia software-engineering tutorials. While this package was created with the intention of teaching Github convention along with Julian package convention, I did want to make something useful, so working with these new types of dataframes might actually come in handy big-time in my opinion. Here is a link to the playlist where we create and work with this package -- feel free to contribute any time down the line, this is a collaborative and interactive tutorial!
