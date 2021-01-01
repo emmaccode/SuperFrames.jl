@@ -1,2 +1,5 @@
 # SuperFrame.jl
-A DataFrames.jl extension we programmed together :)
+## A DataFrames.jl extension we programmed together :)
+A DataFrames.jl extension we programmed together :) If you'd like to learn more, you can work with us by following along with my Julia software engineering tutorial, which are part of my comprehensive julia tutorials which will take you from zero programming experience to a proffessional level developer in this language pretty easily I hope. The great thing about my tutorials is that they are very interactive, as we are all going to be involved in developing features together to teach both Github and software development convention in general, along with learning the Julia language, functional, and (maybe) object oriented programming all together! Exciting! Anyway, you can check out the playlist for both the software-engineering edition and the regular playlist which will include the software engineering videos:
+# [All Julia Tutorials](https://www.youtube.com/watch?v=APMrRY5BaDo&list=PLCXbkShHt01seTlnlVg6O7f6jKGTguFi7)
+# [Software Engineering Sections](https://www.youtube.com/watch?v=K1VBbpCFsdw&list=PLCXbkShHt01uKk7vX5aQrTVHTHQMZktfS)
