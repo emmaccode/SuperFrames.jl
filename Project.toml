@@ -2,7 +2,6 @@ authors = ["emmett emmett@emmettboudreau.com"]
 name = "SuperFrame"
 uuid = "19a2823e-5050-11eb-208c-916d674a0ad5"
 [deps]
-DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+
 [compat]
 julia = "1.5"
-DataFrames = "0.22.1"
